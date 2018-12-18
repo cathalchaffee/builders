@@ -4,7 +4,9 @@ Documentation for build team
 1. Click [Clone or Download &#9660;] above
 2. Click [Use SSH] and copy the text in the textbox
 3. Run `git clone git@github.com:cathalchaffee/builders.git` in your terminal
+
 OR
+
 Just Run `git clone git@github.com:cathalchaffee/builders.git` :)
 ### Tasks
 * ACA Upgrade
